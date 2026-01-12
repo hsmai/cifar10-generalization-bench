@@ -49,7 +49,7 @@ CIFAR-10(32×32 컬러 이미지, 10개 클래스)을 대상으로 **AlexNet-sty
 ✅ Val Acc (final): 0.4062  
 ✅ Test Acc (final): 0.4026
 
-✅ Train-Val gap (final): 0.5868
+✅ Train-Val gap (final): 0.5868<br><br>
 
 &lt;main point&gt;  
 - train 성능이 과도하게 높아지는 반면, val/test 성능이 정체/하락하며 과적합이 발생  
@@ -68,7 +68,7 @@ CIFAR-10(32×32 컬러 이미지, 10개 클래스)을 대상으로 **AlexNet-sty
 ✅ Val Acc (final): 0.8880  
 ✅ Test Acc (final): 0.8822
 
-✅ Train-Val gap (final): 0.0969
+✅ Train-Val gap (final): 0.0969<br><br>
 
 &lt;main point&gt;  
 - regularization/augmentation 적용 후 train acc는 낮아질 수 있지만, val/test 성능이 개선되는 경향  
