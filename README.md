@@ -48,6 +48,7 @@ CIFAR-10(32×32 컬러 이미지, 10개 클래스)을 대상으로 **AlexNet-sty
 ✅ Train Acc (final): 0.9930  
 ✅ Val Acc (final): 0.4062  
 ✅ Test Acc (final): 0.4026
+
 ✅ Train-Val gap (final): 0.5868
 
 &lt;main point&gt;  
@@ -66,6 +67,7 @@ CIFAR-10(32×32 컬러 이미지, 10개 클래스)을 대상으로 **AlexNet-sty
 ✅ Train Acc (final): 0.9849  
 ✅ Val Acc (final): 0.8880  
 ✅ Test Acc (final): 0.8822
+
 ✅ Train-Val gap (final): 0.0969
 
 &lt;main point&gt;  
