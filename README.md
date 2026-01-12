@@ -88,3 +88,11 @@ CIFAR-10(32×32 컬러 이미지, 10개 클래스)을 대상으로 **AlexNet-sty
 - regularization/augmentation이
   - 학습 시간
   - overfitting behavior
+
+---
+
+## 환경 세팅
+- Google Colab
+- Python 3.x
+- pytorch, torch vision, numpy, matplotlib 필요
+- GPU 실행 권장
