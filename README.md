@@ -1,5 +1,7 @@
 # cifar10-generalization-bench
 
+자세한 분석 결과 : report.pdf에서 확인 가능합니다.
+
 # AlexNet-on-CIFAR10 | Overfitting & Generalization Study
 
 CIFAR-10(32×32 컬러 이미지, 10개 클래스)을 대상으로 **AlexNet-style ConvNet을 직접 구현**하고,  
