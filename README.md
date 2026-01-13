@@ -1,6 +1,3 @@
-# cifar10-generalization-bench
-
-자세한 분석 결과 : report.pdf에서 확인 가능합니다.
 
 # AlexNet-on-CIFAR10 | Overfitting & Generalization Study
 
@@ -9,7 +6,11 @@
 
 CIFAR-10(32×32 컬러 이미지, 10개 클래스)을 대상으로 **AlexNet-style ConvNet을 직접 구현**하고,  
 의도적으로 **overfitting을 유도한 모델**과 **regularization/augmentation을 적용한 모델**을 비교하여  
-과적합과 일반화 성능의 차이를 분석합니다.
+과적합과 일반화 성능의 차이를 분석합니다.<br>
+
+자세한 분석 결과 : report.pdf에서 확인 가능합니다.
+
+<br>
 
 [Goal]
 - AlexNet-style ConvNet을 직접 구현 (no pre-trained / no predefined AlexNet)
